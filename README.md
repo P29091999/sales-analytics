@@ -128,7 +128,7 @@ query GetSalesAnalytics($startDate: String!, $endDate: String!) {
 
 ---
 
-## **📂 Corrected File Structure (Based on Screenshot)**
+## 📂 **File Structure**
 ```
 📦 sales-analytics-api
  ┣ 📂 src
@@ -174,7 +174,7 @@ npm run test:cov
 
 ---
 
-## **📸 Screenshots**
+## **📸 Output**
 ### 1️⃣ **Project File Structure & Running App**
 ![File Structure](uploads/output1.png)
 
@@ -185,7 +185,3 @@ npm run test:cov
 ![API Response](uploads/output3.png)
 
 ---
-
-## **🤝 Support & Contributions**
-- **Feel free to contribute!** Open a PR with improvements.
-- **For issues or questions,** open a GitHub issue.
